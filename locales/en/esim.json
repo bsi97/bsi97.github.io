@@ -1,0 +1,16 @@
+{
+    "title": "eSIM Product Info",
+    "guide_button": "Download Guide",
+    "issue_button": "Get eSIM",
+    "notice_title": "Please Read Before Using eSIM",
+    "notice_1": "Issuance is the step to confirm your eSIM purchase. Product info will be sent after issuance.",
+    "notice_2": "Issuance deadline is 7 days from purchase date. After that, it will be issued automatically.",
+    "notice_3": "No refund or exchange after issuance.",
+    "notice_4": "Before issuance, full or partial refund is possible via return request on Naver Smart Store.",
+    "notice_5": "Check the full guide below.",
+    "orderNumber": "Order Number",
+    "purchasePlace": "Purchase Source",
+    "productName": "Product",
+    "purchaseDate": "Purchase Date",
+    "expiryDate": "Issuance Deadline"
+  }

@@ -1,0 +1,14 @@
+{
+    "qrTitle": "QR코드 다운로드",
+    "qrSubtitle": "주문하신 eSIM을 QR코드로 다운받으세요!",
+    "orderNumber": "주문번호",
+    "purchaseLocation": "구매처",
+    "purchaseItem": "구매상품",
+    "purchaseDate": "구매일",
+    "issueDeadline": "발권기한",
+    "downloadQr": "QR코드 다운로드",
+    "adPlaceholder": "광고가 들어가는 위치 입니다",
+    "adTempTitle": "임시 광고 시안",
+    "popupTitle": "QR코드 다운로드",
+    "popupAlt": "QR코드"
+  }

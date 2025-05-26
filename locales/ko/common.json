@@ -1,0 +1,10 @@
+{
+    "modal": {
+      "successTitle": "발급 요청이 완료되었습니다",
+      "successDescription": "발급까지 10분 정도 소요됩니다.\n메일로 안내 드리겠습니다.",
+      "errorTitle": "비밀번호를 확인해주세요",
+      "errorDescription": "비밀번호가 맞지 않습니다.\n주문 시 사용한 전화번호 뒷자리 4자리입니다.",
+      "ok": "확인",
+      "back": "돌아가기"
+    }
+  }

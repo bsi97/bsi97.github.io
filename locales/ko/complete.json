@@ -1,0 +1,23 @@
+{
+    
+    "orderTitle": "주문안내ㅏㅏㅏㅏ ",
+    "orderNumber": "주문번호",
+    "purchasePlace": "구매처",
+    "productName": "구매상품",
+    "purchaseDate": "구매일",
+    "expiryDate": "발권기한",
+    "noticeTitle": "eSIM 발급 절차 및 주의사항 안내",
+    "qrButton": "OK",
+    "complete_notice_1": "본 상품은 발권 후 요금제 활성화 정보가 공유된 상품으로, 교환·환불이 불가합니다.",
+    "complete_notice_2": "eSIM 상품 등록은 네트워크가 연결된 상태에서만 가능합니다.",
+    "complete_notice_3": "상품 등록 후 단말 변경이나, 한 개의 상품정보로 여러 단말 등록·사용은 불가합니다.",
+    "complete_notice_4": "실수로 단말에서 등록한 eSIM을 삭제한 경우 동일 단말에서 재등록 사용이 가능합니다.",
+    "complete_notice_5": "유효기간은 발권일로부터 180일이며, 개통은 유효기간 내 현지 네트워크 접속 시 시작됩니다.",
+    "complete_notice_6": "QR 스캔 후 개통(현지 네트워크 접속) 시 자동 개통되며, 이때부터 사용기간이 산정됩니다.",
+    "complete_notice_7": "사용기간은 개통 후 24시간을 1일로 간주합니다. (예: 5일 = 120시간)",
+    "complete_notice_8": "데이터 리셋 시간 기준은 개통 시점입니다.",
+    "complete_notice_9": "데이터 사용량은 로밍도깨비 앱에서 확인할 수 있습니다.",
+    "complete_notice_10": "현지에서 네트워크 연결이 안될 경우, 데이터 로밍이 켜져 있는지 확인하세요.",
+    "complete_notice_11": "사용 가이드는 로밍도깨비 eSIM 앱에서 확인할 수 있습니다.",
+    "complete_notice_12": "기타 문의는 고객센터를 통해 연락 주세요."
+  }

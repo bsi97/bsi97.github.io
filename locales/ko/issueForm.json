@@ -1,0 +1,22 @@
+{
+    "pageTitle": "주문내역 확인페이지",
+    "checkOrder": "주문 내역을 확인해 주세요",
+  
+    "esimInfoTitle": "eSIM 발급 절차 및 주의사항 안내",
+    
+    
+
+
+    
+    "refundPolicyTitle": "환불정책 및 절차 안내",
+  
+    
+    "passwordNotice": "전화번호 뒷 4자리가 비밀번호 입니다.",
+    "agreeAll": "전체 동의",
+    "agree1": "[필수] 개인정보 수집 및 이용 동의",
+    "agree2": "[필수] 위치기반 서비스 이용약관 동의",
+    "agree3": "[필수] 로밍 서비스 이용약관 동의",
+    "agree4": "[선택] 마케팅 정보 활용 동의",
+    "viewDetail": "보기"
+    
+  }
